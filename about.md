@@ -13,4 +13,5 @@ Smooth jazz and free pretzels
 ### Contact me
 
 [000031530@student.thomroth.ac.uk](mailto:000031530@student.thomroth.ac.uk)
-[rs.free@gmail.com](mailto:rs.frere@gmail.com)
+
+[rs.frere@gmail.com](mailto:rs.frere@gmail.com)
