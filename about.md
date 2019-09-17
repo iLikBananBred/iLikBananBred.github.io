@@ -12,6 +12,8 @@ Smooth jazz and free pretzels
 
 ### Contact me
 
-[000031530@student.thomroth.ac.uk](mailto:000031530@student.thomroth.ac.uk)
+[000031530@student.thomroth.ac.uk]
 
 [rs.frere@gmail.com](mailto:rs.frere@gmail.com)
+
+I am more likely to read my gmail more often than my college email, however send as appropriate.
