@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Wayne Jones # CHANGE THIS TO YOUR NAME
+name: Ryan Frere # CHANGE THIS TO YOUR NAME
 
 # Short bio or description (displayed in the header)
-description: Teacher of Computer Science # CHANGE THIS FOR YOUR BLOG
+description: Professional Idiot & Bread Connoisseur # CHANGE THIS FOR YOUR BLOG
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /jekyll-logo.png
@@ -18,15 +18,15 @@ avatar: /jekyll-logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
-  facebook:
-  flickr:
-  github: TRCCompSci # CHANGE THIS TO YOUR GITHUB USERNAME
-  instagram:
-  linkedin:
-  pinterest:
+  email: rs.frere@gmail.com 000031530@student.thomroth.ac.uk
+  facebook: No
+  flickr: No
+  github: iLikBananBred # CHANGE THIS TO YOUR GITHUB USERNAME
+  instagram: No
+  linkedin: No
+  pinterest: NO
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: @TheBarnooGuy
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
