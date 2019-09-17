@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I could put some information here, but I doubt I will, for now enjoy some smooth jazz and free preztels
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Smooth jazz and free pretzels
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[000031530@student.thomroth.ac.uk](mailto:000031530@student.thomroth.ac.uk)
+[rs.free@gmail.com](mailto:rs.frere@gmail.com)
