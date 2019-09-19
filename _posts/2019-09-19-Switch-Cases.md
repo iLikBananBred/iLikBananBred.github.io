@@ -28,4 +28,4 @@ switch (x)
 Console.ReadLine
 ```
 'default' is whatever the switch case defaults to when a value out of the range of expected cases is entered.
-'break' is a requirement for a switch/case to work, otherwise you will recieve a vuilt error 
+'break' is a requirement for a switch/case to work, otherwise you will recieve a build error 
