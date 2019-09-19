@@ -7,7 +7,7 @@ Doubles represent decimal numbers.
 ```csharp
 double miles = 7.4;
 ```
-If a double is divided, the answer is (unless specified) given as an integer, to fix this we do the following
+If a double is divided, the answer is (unless specified) given as an integer and the decimal places are truncated, to fix this we do the following
 ```csharp
 double third = number / 3.0;
 
