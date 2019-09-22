@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: String Manipulation
 categories: C# Programming
 ---
 Concatenation is when you join two string together, the '+' sybol is used to do this
