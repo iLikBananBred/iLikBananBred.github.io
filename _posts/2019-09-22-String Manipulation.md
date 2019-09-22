@@ -10,7 +10,7 @@ Console.WriteLine("Hello " + name);
 ```
 You can use the .Length command to get the length of a string in characters
 ```csharp
-string sample = Pretzel
+string sample = "Pretzel"
 int sampleLength= sample.Length
 Console.WriteLine(sampleLength)
 ```
