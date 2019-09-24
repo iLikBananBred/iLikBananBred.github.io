@@ -49,3 +49,30 @@ public static void square(int l)
     output = "";
   }
 ```
+When you pass a variable through a subroutine, by default any changes made to that variable within the subroutine do not update the original value in the main routine.
+```csharp
+static void Main(string[] args)
+{
+  Console.WriteLine("Enter a number");
+  int l = Convert.ToInt16(Console.Readline());
+  square(l);
+  Console.WriteLine(l);
+  Console.ReadLine();
+            
+}
+
+public static void multiply(int l)
+{
+  l = l * l;
+  Console.WriteLine(l);
+}
+```
+The two different .WriteLine(l) statements will produce two different values, this is because in the first .WriteLine(l) statement, the value for l has not changed, but in the second one in the subroutine has had its value changed.
+To fix this, we use the ref argument.
+```csharp
+ref int l = Convert.ToInt16(Console.ReadLine());
+```
+```csharp
+public static void multiply(ref int l)
+```
+This will carry over any changes made within the subroutine
