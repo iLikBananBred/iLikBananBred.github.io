@@ -26,4 +26,8 @@ My favourite colour is chickenfoot ochre and my favourite flavour is grönk
 
 [rs.frere@gmail.com](mailto:rs.frere@gmail.com)
 
-By messenger pigeon (longitude 83, latitude 91)
+By messenger pigeon (Latitude- 53.467503, Longitude- -1.327251)
+
+Yes those are my rough coordinates
+
+No I don't have a life
