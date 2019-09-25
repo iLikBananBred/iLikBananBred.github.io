@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Text Files
-categories: [C# Programming 'Storing Data']
+categories: [C#, Programming, Storing Data]
 ---
