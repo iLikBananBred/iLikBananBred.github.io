@@ -12,9 +12,11 @@ I think
 Hopefully
 
 
-I have had previous experience with Python and a brief encounter with C++, I did not enjoy it.
+I have had previous experience with Python.
+
 I did computer science at GCSE level and achieved a grade 9.
-I am also doing physics and maths for my A-Levels
+
+I am also doing physics, maths and computer studies for my A-Levels
 
 
 ### More Information
