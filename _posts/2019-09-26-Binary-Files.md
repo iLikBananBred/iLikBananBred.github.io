@@ -13,10 +13,10 @@ string s = "I am happy";
 
 BinaryWriter bw = new BinaryWriter(new FileStream("mydata", FileMode.Create));
 
-bw.Wrote(i);
-bw.Wrote(d);
-bw.Wrote(b);
-bw.Wrote(s);
+bw.Write(i);
+bw.Write(d);
+bw.Write(b);
+bw.Write(s);
 
 bw.Close();
 ```
