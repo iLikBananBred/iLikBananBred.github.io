@@ -25,7 +25,7 @@ using (StreamReader sr = new StreamReader("TextFile.txt"))
 
 This is the code to read a file, however, this will cause problems if you try to read a line that does not yet exist, we solve these problems by using the following code: 
 
-```
+```csharp
 using (StreamReader sr = new StreamReader("TextFile.txt"))
 {
   string line;
@@ -41,7 +41,7 @@ This checks if the line exists, the 'While' statement says if the line specified
 
 There is yet another possible problem with reading files, and that is if you try reading before creating a file, problems will arise, to fix this, c# has a command to check the existance of an object.
 
-```
+```csharp
 if (File.Exists("textFile.txt"))
 {
   Console.WriteLine("File exists")
