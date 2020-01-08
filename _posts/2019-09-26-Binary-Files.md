@@ -25,7 +25,7 @@ bw.Close();
 
 You can also call lines written in binary files and assign them as variables.
 ```csharp
-BinaryReader bw = new BinaryWriter(new FileStream("mydata", FileMode.Open));
+BinaryReader bw = new BinaryReader(new FileStream("mydata", FileMode.Open));
 ```
 
 Instead of using .Create we use .Open
